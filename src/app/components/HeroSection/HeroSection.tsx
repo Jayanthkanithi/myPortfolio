@@ -10,7 +10,7 @@ const HeroSection = () => {
         <Image src="/jayanth.png" alt="me" width={160} height={160} className="hero__image" />
 
         <div>
-          <h1>Hey, I&#39;m Jayanth 👋</h1>
+          <h1>Hey, I&rsquo;m Jayanth 👋</h1>
           <p>
             Full Stack Web Developer | Passionate about building responsive
             UIs, scalable apps, and solving real-world problems.
