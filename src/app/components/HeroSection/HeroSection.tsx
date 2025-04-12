@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <section className="hero" id="home">
       <div className="hero__content">
-      import Image from 'next/image';
+      {/* import Image from 'next/image'; */}
 
         <Image src="/jayanth.png" alt="me" width={160} height={160} className="hero__image" />
 
